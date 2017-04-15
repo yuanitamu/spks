@@ -1,0 +1,18 @@
+Admin:
+username: admin
+password: admin
+Pembeli:
+username: kikypramesti
+password: Anaksmasa
+Seniman:
+username: faisal.muhammad
+password: faisal
+username: abdwafi
+password: abdwafi
+
+Kelompok 6
+Rizky Amalia Pramesti
+Yauanita Muharyani
+Abdul Wafi
+Muhammad Faisal
+Wildan Gita Akbari

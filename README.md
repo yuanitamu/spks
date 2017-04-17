@@ -4,3 +4,9 @@ merupakan aplikasi berbasis web dengan framework CI yang berisi informasi berbag
 daerah. sesuai nama aplikasinya, yaitu spks atau sistem pelelangan karya seni, aplikasi ini
 digunakan untuk melakukan pelelangan berbagai karya seni yang ada di indonesia oleh seniman. 
 selain pelelangan, terdapat juga jual beli karya seni dan pameran oleh seniman-seniman tanah air.
+
+Rizky Amalia Pramesti
+Yauanita Muharyani
+Abdul Wafi
+Muhammad Faisal
+Wildan Gita Akbari
